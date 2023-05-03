@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 const app = express ();
 
 //MongoDB user pword - IZ3S8WopisANsllE
-//URL - https://todolist-udemy.onrender.com
+//URL - https://todolist-udemy.onrender.com or https://todolist-e7o4.onrender.com
 
 
 main().catch(err => console.log(err));
